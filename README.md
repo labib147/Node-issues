@@ -20,3 +20,4 @@ NVM default version change
 
 
 To create a package.json  file on empty directory `npm init --y` 
+`npm install ethers` or `yarn add ethers` 
